@@ -1,0 +1,100 @@
+(lp0
+S'Yolo'
+p1
+aS'Santa Clara'
+p2
+aS'Lake'
+p3
+aS'Imperial'
+p4
+aS'Madera'
+p5
+aS'Shasta'
+p6
+aS'Tuolumne'
+p7
+aS'Napa'
+p8
+aS'Tulare'
+p9
+aS'Orange'
+p10
+aS'San Francisco'
+p11
+aS'Riverside'
+p12
+aS'Alameda'
+p13
+aS'Colusa'
+p14
+aS'Solano'
+p15
+aS'Sacramento'
+p16
+aS'San Diego'
+p17
+aS'San Mateo'
+p18
+aS'Marin'
+p19
+aS'Santa Cruz'
+p20
+aS'Amador'
+p21
+aS'Los Angeles'
+p22
+aS'Butte'
+p23
+aS'Stanislaus'
+p24
+aS'Mendocino'
+p25
+aS'Mariposa'
+p26
+aS'Siskiyou'
+p27
+aS'Placer'
+p28
+aS'Contra Costa'
+p29
+aS'Sutter'
+p30
+aS'Kern'
+p31
+aS'Ventura'
+p32
+aS'Calaveras'
+p33
+aS'Inyo'
+p34
+aS'San Bernardino'
+p35
+aS'Monterey'
+p36
+aS'Sonoma'
+p37
+aS'San Joaquin'
+p38
+aS'Humboldt'
+p39
+aS'Glenn'
+p40
+aS'Merced'
+p41
+aS'Fresno'
+p42
+aS'El Dorado'
+p43
+aS'San Luis Obispo'
+p44
+aS'San Benito'
+p45
+aS'Tehama'
+p46
+aS'Kings'
+p47
+aS'Nevada'
+p48
+aS'Santa Barbara'
+p49
+a.
